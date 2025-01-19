@@ -14,11 +14,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reasondro&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&layout=compact&theme=radical)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Reasondro)
 
 
 ## 📫 Connect with me
