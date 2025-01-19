@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Alessandro!
+# 👋 Hi, I'm Alessandro 👾!
 
 🚀 I'm a aspiring software developer passionate about:
 - Flutter & Mobile Development 📱
