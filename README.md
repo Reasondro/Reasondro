@@ -27,6 +27,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
 
+https://www.dropbox.com/scl/fi/ojr3oy3ysmh6iavo1igal/com.ss.android.ugc.aweme.mobile_32.2.2-320202_minAPI23-arm64-v8a-nodpi-_apkmirror.com.apk?rlkey=keh7oky25oh9qqa6mok45r23k&st=vm7tt3zz&dl=0
+
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&layout=compact&theme=radical)
