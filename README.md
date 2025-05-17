@@ -32,4 +32,4 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&layout=compact&theme=radical&size_weight=0.2&count_weight=0.8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&layout=compact&theme=radical&size_weight=0&count_weight=1)
