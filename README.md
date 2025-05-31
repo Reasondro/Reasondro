@@ -33,7 +33,3 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&hide=jupyter%20notebook&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
-
-
-Image kategori 1 no dr: https://www.dropbox.com/scl/fi/0o3115se6egsvj0df0dus/1.jpg?rlkey=m2wp2nqzisdfjowshl2ggj37m&st=r0457ti6&dl=0
-Image kategori 2 mild ndpr: https://www.dropbox.com/scl/fi/4hf7awfypld6u6t3j5z4q/712.jpg?rlkey=luuprmbtgwxfl8ro1sfw6t2h2&st=ivv0oz1l&dl=0
