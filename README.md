@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Alessandro 👾!
+# 🖖 Hi, I'm Alessandro 👾!
 
-🚀 I'm a software developer enthusiast passionate about:
+🤞 I'm a software developer enthusiast passionate about:
 - Flutter & Mobile Development 📱
 - Artificial Intelligence 🧠🤖
 - Backend & API Development ⚙️
