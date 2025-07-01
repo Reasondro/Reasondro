@@ -6,7 +6,7 @@
 - Backend & API Development ⚙️
 - Web Development with Angular & Laravel 🌐
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -31,5 +31,5 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&hide=jupyter%20notebook&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
