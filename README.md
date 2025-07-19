@@ -33,3 +33,6 @@
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&hide=jupyter%20notebook&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+
+
+https://www.dropbox.com/scl/fi/jt0rh5gbzvctf084586io/1305.jpg?rlkey=rqo9myopsm54u7xnohqny8q65&st=e1fpetno&dl=0
