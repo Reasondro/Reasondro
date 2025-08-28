@@ -1,15 +1,16 @@
 # 🖖 Salute. I'm Alessandro 👾!
 
 🤞 I'm a software developer enthusiast passionate about:
-- Flutter & Mobile Development 📱
-- Artificial Intelligence 🧠🤖
-- Backend & API Development ⚙️
+- Flutter & Mobile Development 🐦+🪶
+- Artificial Intelligence 🐍+🦜
+- Backend & API Development ⚙️+⚡
 - Web Development with Angular & Laravel 🌐
 
 ## Technologies & Tools
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Langchain](https://img.shields.io/badge/-Langchain-02303A?logo=langchain&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
