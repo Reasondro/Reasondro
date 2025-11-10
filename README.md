@@ -1,6 +1,6 @@
-# 🖖 Salute. I'm Alessandro 👾!
+# Salute. I'm Alessandro!
 
-🤞 I'm a software developer enthusiast passionate about:
+I'm a software developer enthusiast passionate about:
 - Flutter & Mobile Development 🐦+🪶
 - Artificial Intelligence 🐍+🦜
 - Backend & API Development ⚙️+⚡
@@ -34,3 +34,13 @@
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reasondro&hide=jupyter%20notebook&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reasondro/reasondro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reasondro/reasondro/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dragonsenseiguy/Reasondro/output/github-snake.svg" />
+  </picture>
+</p>
+
